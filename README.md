@@ -62,15 +62,6 @@
 *   Компилятор XC8 v2.30+ (Standard или Pro mode)
 *   Программатор PICkit 3/4 или ICD 3
 
-### Инструкция
-1.  Клонируйте репозиторий:
-    ```bash
-    git clone https://github.com/vinantole/S19-PIC-Firmware-Patch.git
-    ```
-2.  Откройте проект `NEW_FW.X` в MPLAB X.
-3.  Выберите конфигурацию `production`.
-4.  Нажмите **Make and Program Device**.
-
 ---
 
 ## 📝 История изменений (Changelog)
